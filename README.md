@@ -1,6 +1,7 @@
-# RegsCrud
+# Registraion Form 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
+Application to for Gym membership where they can register, edit, view or delete there response(CRUD operations).
+
 # Form Page
 ![Alt text](./src/assets/Form%20page.jpg?raw=true "Title")
 # Enquiry Page
