@@ -1,0 +1,148 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Test",
+      "lastName": "Suraj",
+      "email": "tet@test",
+      "mobile": 902343084038,
+      "weight": 78,
+      "height": 1.76,
+      "bmi": 26.989619377162633,
+      "bmiResult": "Overweight",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Toxic Fat reduction",
+        "Energy and Endurance",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-07-13T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "Jhon ",
+      "lastName": "Cena",
+      "email": "cena@gmail.com",
+      "mobile": 2837482323,
+      "weight": 102,
+      "height": 2.1,
+      "bmi": 23.12925170068027,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Fitness"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-07-13T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "Test",
+      "lastName": "Suraj",
+      "email": "tet@test",
+      "mobile": 902343084038,
+      "weight": 78,
+      "height": 1.76,
+      "bmi": 26.989619377162633,
+      "bmiResult": "Overweight",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Toxic Fat reduction",
+        "Energy and Endurance",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-07-13T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "Test",
+      "lastName": "Suraj",
+      "email": "tet@test",
+      "mobile": 902343084038,
+      "weight": 78,
+      "height": 1.76,
+      "bmi": 26.989619377162633,
+      "bmiResult": "Overweight",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Toxic Fat reduction",
+        "Energy and Endurance",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-07-13T18:30:00.000Z",
+      "id": 4
+    },{
+      "firstName": "Test",
+      "lastName": "Suraj",
+      "email": "tet@test",
+      "mobile": 902343084038,
+      "weight": 78,
+      "height": 1.76,
+      "bmi": 26.989619377162633,
+      "bmiResult": "Overweight",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Toxic Fat reduction",
+        "Energy and Endurance",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-07-13T18:30:00.000Z",
+      "id": 6
+    },{
+      "firstName": "Test",
+      "lastName": "Suraj",
+      "email": "tet@test",
+      "mobile": 902343084038,
+      "weight": 78,
+      "height": 1.76,
+      "bmi": 26.989619377162633,
+      "bmiResult": "Overweight",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Toxic Fat reduction",
+        "Energy and Endurance",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-07-13T18:30:00.000Z",
+      "id": 7
+    },{
+      "firstName": "Test",
+      "lastName": "Suraj",
+      "email": "tet@test",
+      "mobile": 902343084038,
+      "weight": 78,
+      "height": 1.76,
+      "bmi": 26.989619377162633,
+      "bmiResult": "Overweight",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Toxic Fat reduction",
+        "Energy and Endurance",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-07-13T18:30:00.000Z",
+      "id": 8 
+    }
+  ]
+}
