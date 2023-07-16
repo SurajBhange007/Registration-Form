@@ -1,6 +1,6 @@
 # Registraion Form 
 
-Application to for Gym membership where they can register, edit, view or delete there response(CRUD operations).
+Application to for Gym membership where they can register, edit, view or delete there response(CRUD operations) Used Angular 15 and angular material.
 
 # Form Page
 ![Alt text](./src/assets/Form%20page.jpg?raw=true "Title")
